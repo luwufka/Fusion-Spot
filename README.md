@@ -1,8 +1,7 @@
 # Fusion Spot
 > Обнаружение приложений сделанных на Clickteam Fusion (Fusion Apps)
 
-> ❗ Made only for the purpose of removing malware! CTF WAS NOT CREATED TO CREATE VIRUSES. IT'S A GAME ENGINE!
-
+> ❗ Clickteam LLC created Clickteam Fusion to create games, and never distributed malware!
 ## ⚙️ Funcs:
 
 ### Temp Spot:
