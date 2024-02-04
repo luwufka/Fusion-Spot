@@ -1,5 +1,5 @@
 # Fusion Spot
-> Обнаружение приложений сделанных на Clickteam Fusion (Fusion Apps)
+> Detection of Fusion Apps. Fusion Spot is designed to remove malware
 
 > ❗ Clickteam LLC created Clickteam Fusion to create games, and never distributed malware!
 ## ⚙️ Funcs:
